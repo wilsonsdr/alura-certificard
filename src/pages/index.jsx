@@ -1,18 +1,24 @@
 import Image from "next/image";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faLinkedin,
+  faGithubSquare,
+  faGooglePlusSquare,
+} from "@fortawesome/free-brands-svg-icons";
 
 export default function Home() {
   return (
     <>
       <div className="flex h-screen items-center justify-center max-md:m-8 max-md:h-auto">
         <div className="grid grid-cols-2 rounded-lg shadow-lg max-md:grid-cols-1">
-          <div className="flex flex-col gap-16 rounded-lg bg-blue-800 px-8 py-4 text-center text-white max-md:rounded-sm max-md:py-8">
+          <div className="flex flex-col gap-16 rounded-lg bg-blue-700 px-8 py-4 text-center text-white max-md:rounded-sm max-md:py-8">
             <div className="flex flex-col items-center justify-center text-center">
               <Image
                 className="h-28 w-28 rounded-full border-2"
-                src="https://github.com/wilsonsdr.png"
+                src="/img/perfil.jpg"
                 alt="foto-perfil"
-                width={28}
-                height={28}
+                width={200}
+                height={200}
               />
               <h1 className="mt-4 text-2xl font-bold">Wilson Souto dos Reis</h1>
               <span className="text-xl">Desenvolvedor Back-end</span>
@@ -24,7 +30,7 @@ export default function Home() {
                   href="https://www.linkedin.com/in/wilsonsdr/"
                   target="_blank"
                 >
-                  <i className="fa-brands fa-linkedin"></i>
+                  <FontAwesomeIcon icon={faLinkedin} />
                 </a>
                 <span>LinkedIn</span>
               </li>
@@ -34,7 +40,7 @@ export default function Home() {
                   href="https://github.com/wilsonsdr"
                   target="_blank"
                 >
-                  <i className="fa-brands fa-github"></i>
+                  <FontAwesomeIcon icon={faGithubSquare} />
                 </a>
                 <span>GitHub</span>
               </li>
@@ -44,7 +50,7 @@ export default function Home() {
                   href="mailto:wilsonsdr@gmail.com"
                   target="_blank"
                 >
-                  <i className="fa-brands fa-google"></i>
+                  <FontAwesomeIcon icon={faGooglePlusSquare} />
                 </a>
                 <span>Gmail</span>
               </li>
