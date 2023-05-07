@@ -21,7 +21,7 @@ export default function Home() {
                 height={200}
               />
               <h1 className="mt-4 text-2xl font-bold">Wilson Souto dos Reis</h1>
-              <span className="text-xl">Desenvolvedor Back-end</span>
+              <span className="text-xl">Desenvolvedor de Software</span>
             </div>
             <ul className="flex flex-col items-center justify-center gap-4 text-2xl">
               <li className="ml-6 flex flex-row items-center gap-4">
