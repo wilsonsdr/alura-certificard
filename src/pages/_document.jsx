@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="pt-br">
       <Head />
       <title>Certificard</title>
-      <body>
+      <body className="bg-slate-200">
         <Main />
         <NextScript />
       </body>
