@@ -20,7 +20,7 @@ export default function Home() {
                 width={200}
                 height={200}
               />
-              <h1 className="mt-4 text-2xl font-bold">Wilson R.</h1>
+              <h1 className="mt-4 text-2xl font-bold">Wilson Reis</h1>
               <span className="text-xl">Desenvolvedor de Software</span>
             </div>
             <ul className="flex flex-col items-center justify-center gap-4 text-2xl">
