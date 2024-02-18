@@ -38,7 +38,7 @@
 
 ## :dart: About
 
-Certificate of completion of the Immersion Dev Alura with all projects developed by me, and proposed by instructors Paulo Silveira, Rafaella Ballerini, and Guilherme Lima
+Certificate of completion of the Alura JavaScript Immersion with all projects developed by me, and proposed by instructors Paulo Silveira, Rafaella Ballerini, and Guilherme Lima
 
 In total, there were 10 virtual classes, between September 5th and 19th, 2022, aimed at teaching a little HTML and CSS, but with a focus on JavaScript.
 
