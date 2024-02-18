@@ -1,47 +1,96 @@
-# Descrição do projeto
+<h1 align="center">Certificard</h1>
 
-Certificado de conclusão da Imersão Dev Alura com todos os projetos desenvolvidos por mim, e propostos pelos instrutores [Paulo Silveira](https://github.com/peas), [Rafaella Ballerini](https://github.com/rafaballerini) e [Guilherme Lima](https://github.com/guilhermeonrails)
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wilsonsdr/certificard?color=56BEB8">
 
-Ao total foram 10 aulas virtuais, entre os dias 05 a 19 de Setembro de 2022, que teve como objetivo ensinar um pouco de HTML e CSS, mas com foco voltado à JavaScript
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wilsonsdr/certificard?color=56BEB8">
 
-Durante a Imersão pude reforçar e desenvolver novos conhecimentos e habilidades, em que irá me agregar em futuros projetos e desafios
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wilsonsdr/certificard?color=56BEB8">
 
-### Como acessar o projeto
+  <img alt="License" src="https://img.shields.io/github/license/wilsonsdr/certificard?color=56BEB8">
 
-Repositório com os desafios realizados, [clique aqui](https://github.com/wilsonsdr/imersao-alura)
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wilsonsdr/certificard?color=56BEB8" /> -->
 
-Para conhecer os projetos, [clique aqui](https://certificard-wilsonsdr.vercel.app/)
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wilsonsdr/certificard?color=56BEB8" /> -->
 
-### Como rodar o projeto localmente
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wilsonsdr/certificard?color=56BEB8" /> -->
+</p>
 
-Se você quiser executar o projeto em sua máquina local, siga estas etapas:
+<!-- Status -->
 
-1. Clone este repositório em sua máquina local
-2. Abra o terminal e navegue até o diretório do projeto
-3. Digite o seguinte comando para instalar as dependências:
+<!-- <h4 align="center">
+	🚧  Certificard 🚀 Under construction...  🚧
+</h4>
+
+<hr> -->
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/wilsonsdr" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About
+
+Certificate of completion of the Immersion Dev Alura with all projects developed by me, and proposed by instructors Paulo Silveira, Rafaella Ballerini, and Guilherme Lima
+
+In total, there were 10 virtual classes, between September 5th and 19th, 2022, aimed at teaching a little HTML and CSS, but with a focus on JavaScript.
+
+During the Immersion, I was able to reinforce and develop new knowledge and skills, which will add value to me in future projects and challenges.
+
+## :sparkles: Features
+
+:heavy_check_mark: **Average calculator**: A calculator that calculates the average of school grades;\
+:heavy_check_mark: **Currency converter**: A tool that converts currencies, temperatures, and measures;\
+:heavy_check_mark: **Mentalist**: A game where the user tries to guess a number between 0 and 10;\
+:heavy_check_mark: **AluraFlix**: A simulation of Netflix, where users can add and remove movies using a URL.;\
+:heavy_check_mark: **Leaderboard**: A leaderboard for tracking scores in a game;\
+:heavy_check_mark: **Top trumps**: A card game similar to Top Trumps, with a theme based on One Piece;\
+:heavy_check_mark: **Certificard**: A certificard containing all the mentioned projects;
+
+## :rocket: Technologies
+
+The following tools were used in this project:
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+
+## :white_check_mark: Requirements
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+## :checkered_flag: Starting
 
 ```bash
-npm install
+# Clone this project
+$ git clone https://github.com/wilsonsdr/certificard
+
+# Access
+$ cd certificard
+
+# Install dependencies
+$ npm install
+
+# Run the project
+$ npm run dev
+
+# The server will initialize in the <http://localhost:3000>
 ```
-4. Agora, execute o seguinte comando para iniciar o servidor local:
 
-```bash
-npm run dev
-```
-5. O projeto deve estar disponível em http://localhost:3000/ em seu navegador
+## :memo: License
 
-### Tecnologias utilizadas
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-Aqui estão algumas das tecnologias que utilizei para desenvolver meu portfólio:
+Made with :heart: by <a href="https://github.com/wilsonsdr" target="_blank">wilsonsdr</a>
 
-- Next.js
-- React
-- Tailwind
+&#xa0;
 
-### Autor
-
-Wilson Souto dos Reis
-
-### Contato
-
-Você pode entrar em contato comigo por meio do seguinte endereço de e-mail: wilsonsdr@gmail.com
+<a href="#top">Back to top</a>
